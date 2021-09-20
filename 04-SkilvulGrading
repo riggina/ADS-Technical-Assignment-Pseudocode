@@ -3,7 +3,6 @@ Input Nilai=Nilai_Awal
 
 While Nilai % 5 != 0 Then
     Nilai += 1
-    return Nilai
 End While
 
 If Nilai > 3 Then
